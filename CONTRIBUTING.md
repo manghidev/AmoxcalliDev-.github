@@ -379,7 +379,7 @@ Cuando revises PRs de otros:
 - 💬 Abre una [Discussion](https://github.com/AmoxcalliDev/.github/discussions)
 - 🐛 Crea un [Issue](https://github.com/AmoxcalliDev/.github/issues)
 - 💬 Comunícate por Discord *(próximamente)*
-- 📧 Contacta al equipo: **contact@amoxcalli.dev** *(próximamente)*
+- 📧 Contacta al equipo: **[contact@amoxcalli.dev](mailto:contact@amoxcalli.dev)**
 
 ## 🙏 Agradecimientos
 

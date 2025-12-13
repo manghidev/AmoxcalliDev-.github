@@ -31,7 +31,7 @@ Usa uno de estos canales **privados**:
 
 #### 2. Correo Electrónico
 
-📧 **security@amoxcalli.dev** *(próximamente)*
+📧 **[security@amoxcalli.dev](mailto:security@amoxcalli.dev)**
 
 Mientras tanto, puedes crear un Issue privado contactando a los mantenedores directamente.
 
@@ -187,7 +187,7 @@ Seguimos los principios de divulgación responsable:
 
 Para preguntas sobre esta política de seguridad:
 
-- 📧 **security@amoxcalli.dev** *(próximamente)*
+- 📧 **[security@amoxcalli.dev](mailto:security@amoxcalli.dev)**
 - 💬 Contacta a los mantenedores por Discord *(próximamente)*
 - 💬 Abre una [Discussion](https://github.com/AmoxcalliDev/.github/discussions) (solo para preguntas generales, NO para reportar vulnerabilidades)
 
