@@ -24,7 +24,7 @@ Todos los participantes deben cumplir con estas normas de convivencia.
 ## Reportar Incidentes
 
 Para reportar violaciones al código de conducta:
-- 📧 **conduct@amoxcalli.dev** *(próximamente)*
+- 📧 **[conduct@amoxcalli.dev](mailto:conduct@amoxcalli.dev)**
 - 💬 GitHub Issues privados
 - 💬 Discord *(próximamente)*
 
@@ -119,7 +119,7 @@ Ejemplos de representar el proyecto incluyen:
 
 Los casos de comportamiento abusivo, de acoso o inaceptable pueden ser reportados contactando al equipo del proyecto en:
 
-📧 **conduct@amoxcalli.dev** *(próximamente)*
+📧 **[conduct@amoxcalli.dev](mailto:conduct@amoxcalli.dev)**
 
 Mientras tanto, puedes usar GitHub Issues privados para reportar incidentes de manera confidencial.
 

@@ -188,7 +188,7 @@ El archivo `profile/README.md` es especial:
 Para preguntas sobre estos archivos de comunidad:
 
 - 💬 [Discussions](https://github.com/orgs/AmoxcalliDev/discussions)
-- 📧 **contact@amoxcalli.dev** *(próximamente)*
+- 📧 **[contact@amoxcalli.dev](mailto:contact@amoxcalli.dev)**
 - 💬 Discord *(próximamente)*
 
 ## 🤝 Contribuir a Este Repositorio

@@ -76,9 +76,9 @@ Para obtener ayuda más rápido, te recomendamos:
 **¿Para qué?** Asuntos que no pueden ser públicos
 
 📧 **Contactos:**
-- General: **contact@amoxcalli.dev** *(próximamente)*
-- Seguridad: **security@amoxcalli.dev** *(próximamente)*
-- Código de Conducta: **conduct@amoxcalli.dev** *(próximamente)*
+- General: **[contact@amoxcalli.dev](mailto:contact@amoxcalli.dev)**
+- Seguridad: **[security@amoxcalli.dev](mailto:security@amoxcalli.dev)**
+- Código de Conducta: **[conduct@amoxcalli.dev](mailto:conduct@amoxcalli.dev)**
 
 **Tiempo de respuesta:** 2-5 días hábiles
 
@@ -274,7 +274,7 @@ Solo para:
 
 ### Canales de Contacto
 
-- 📧 **contact@amoxcalli.dev** *(próximamente)*
+- 📧 **[contact@amoxcalli.dev](mailto:contact@amoxcalli.dev)**
 - 💬 Discord *(próximamente)*
 - 💬 GitHub Discussions (para preguntas públicas)
 
